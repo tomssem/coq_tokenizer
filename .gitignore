@@ -1,4 +1,5 @@
-.*.aux
+*.aux
+.*.Aux
 .*.d
 *.a
 *.cma
@@ -32,3 +33,5 @@ nia.cache
 nlia.cache
 nra.cache
 tags
+*~
+_build
